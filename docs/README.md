@@ -52,7 +52,5 @@ If you are interested in translating this application to another language, find 
 # Thanks
 
 This application uses the following image:
-- [Save](https://thenounproject.com/term/save/716011) by [Bernar Novalyi](https://thenounproject.com/bernar.novalyi)
+- [Save](https://thenounproject.com/term/save/716011) 
 
-# Note from Developer
-The developer is currently on hiatus from the project. Questions and pull requests may not be looked at for some time. Apologies in advance.
